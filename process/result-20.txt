@@ -1,0 +1,2365 @@
+----Trending words 1957----actual---predict---topicID---
+method                        + -
+form                          - +
+solution                      + -
+execution times               - +
+computer                      + -
+performance                   - +
+allocation                    + -
+bottlenecks                   - +
+analysis                      + -
+strengths                     - +
+data                          + -
+channel                       - +
+programmer                    + -
+animation                     - +
+restrictions                  + -
+ideas                         - +
+machine code                  + -
+track                         - +
+computers                     + -
+information system            - +
+devices                       + -
+rationale                     - +
+vector                        + -
+correction                    - +
+systems                       + -
+note                          - +
+examples                      + -
+different types               - +
+statements                    + -
+efficient                     - +
+mappings                      + -
+large number                  - +
+work                          + -
+current state                 - +
+computer program              + -
+generalization                - +
+matrix                        + -
+argument                      - +
+cost                          + -
+trace                         - +
+
+
+----Trending words 1958----actual---predict---topicID---
+connection                    + -
+terms                         - +
+runs                          + -
+machine                       - +
+improvements                  + -
+time                          - +
+procedure                     + -
+execution times               + +
+programming                   + -
+essence                       + +
+show                          + +
+previous work                 - +
+notations                     + +
+spaces                        + +
+spaces                        + +
+invocation                    + +
+trace                         + -
+notations                     + +
+laws                          + +
+viewpoint                     - +
+essence                       + +
+wide range                    + +
+invocation                    + +
+track                         + +
+application programs          + +
+information system            + +
+execution times               + +
+show                          + +
+track                         + +
+laws                          + +
+pages                         + +
+application programs          + +
+pair                          + +
+pages                         + +
+rationale                     + +
+pair                          + +
+information system            + +
+rationale                     + +
+wide range                    + +
+awareness                     - +
+
+
+----Trending words 1959----actual---predict---topicID---
+programs                      + -
+use                           - +
+compilers                     + -
+execution times               - +
+computer                      + -
+professionals                 - +
+output                        + -
+future                        - +
+words                         + -
+accesses                      - +
+storage                       + -
+static analysis               - +
+algorithms                    + -
+population                    - +
+usage                         + -
+semantics                     - +
+subroutines                   + -
+different types               - +
+system                        + -
+correction                    - +
+computer programs             + -
+argument                      - +
+library                       + -
+caches                        - +
+disk                          + -
+motion                        - +
+languages                     + -
+copy                          - +
+hardware                      + -
+simulators                    - +
+form                          + -
+high performance              - +
+research                      + -
+other systems                 - +
+communication                 + -
+types                         - +
+documentation                 + -
+response                      - +
+files                         + -
+register                      - +
+
+
+----Trending words 1960----actual---predict---topicID---
+language                      + -
+execution times               - +
+system                        + -
+care                          - +
+programming language          + -
+simulators                    - +
+structure                     + -
+other systems                 - +
+algorithm                     + -
+high performance              - +
+specification                 + -
+response                      - +
+method                        + -
+caches                        - +
+program                       + -
+semantics                     - +
+complexity                    + -
+population                    - +
+functions                     + -
+types                         - +
+processes                     + -
+professionals                 - +
+technique                     + -
+variables                     + +
+classes                       + -
+axioms                        - +
+analysis                      + -
+place                         - +
+variables                     + +
+turn                          - +
+paper                         + -
+transition                    - +
+list                          + -
+derivation                    - +
+languages                     + -
+training                      - +
+schema                        + -
+description language          - +
+definition                    + -
+copy                          - +
+
+
+----Trending words 1961----actual---predict---topicID---
+systems                       + -
+execution times               - +
+part                          + -
+correction                    - +
+solution                      + -
+formulas                      - +
+technique                     + -
+channel                       - +
+period                        + -
+performance                   - +
+number                        + -
+strengths                     - +
+problems                      + -
+animation                     - +
+symbols                       + -
+ideas                         - +
+use                           + -
+bottlenecks                   - +
+device                        + -
+trace                         - +
+equations                     + -
+objective                     - +
+designer                      + -
+track                         - +
+types                         + -
+different types               - +
+file                          + -
+efficient                     - +
+methods                       + -
+conversion                    - +
+time                          + -
+large number                  - +
+expressions                   + -
+current state                 - +
+integral part                 + -
+generalization                - +
+terms                         + -
+argument                      - +
+routine                       + -
+suggestions                   - +
+
+
+----Trending words 1962----actual---predict---topicID---
+language                      + -
+subroutines                   - +
+concepts                      + -
+languages                     - +
+efficiency                    + -
+techniques                    - +
+objective                     + -
+previous work                 - +
+syntax                        + -
+laws                          - +
+blocks                        + -
+application programs          - +
+allocation                    + -
+pages                         - +
+choice                        + -
+show                          - +
+compiler                      + -
+rationale                     - +
+phase                         + -
+wide range                    - +
+machine                       + -
+average                       - +
+semantics                     + -
+channel                       - +
+macros                        + -
+information system            - +
+section                       + -
+simulators                    - +
+programming language          + -
+track                         - +
+description                   + -
+trace                         - +
+representation                + -
+bottlenecks                   - +
+source program                + -
+formulas                      - +
+names                         + -
+population                    - +
+register allocation           + -
+spaces                        - +
+
+
+----Trending words 1963----actual---predict---topicID---
+techniques                    + -
+paper                         + +
+program                       + -
+computer                      - +
+model                         + -
+programs                      + +
+system                        + -
+concept                       - +
+processor                     + -
+track                         - +
+technique                     + -
+information system            - +
+automaton                     + -
+rationale                     - +
+memory                        + -
+trace                         - +
+function                      + -
+pages                         - +
+paper                         + +
+average                       - +
+programs                      + +
+bottlenecks                   - +
+solutions                     + -
+formulas                      - +
+data                          + -
+show                          - +
+devices                       + -
+essence                       - +
+users                         + -
+application programs          - +
+resolution                    + -
+ratio                         - +
+matter                        + -
+laws                          - +
+presentation                  + -
+spaces                        - +
+problem                       + -
+wide range                    - +
+simulation                    + -
+previous work                 - +
+
+
+----Trending words 1964----actual---predict---topicID---
+machine                       + -
+computer                      - +
+complexity                    + -
+execution times               - +
+time complexity               + -
+rationale                     - +
+facilities                    + -
+track                         - +
+improvement                   + -
+trace                         - +
+orders                        + -
+formulas                      - +
+text                          + -
+information system            - +
+expression                    + -
+channel                       - +
+simplicity                    + -
+pages                         - +
+product                       + -
+bottlenecks                   - +
+aspects                       + -
+generalization                - +
+entity                        + -
+current state                 - +
+discipline                    + -
+strengths                     - +
+approaches                    + -
+animation                     - +
+principles                    + -
+emphasis                      - +
+readability                   + -
+equipment                     - +
+request                       + -
+ideas                         - +
+increase                      + -
+efficient                     - +
+version                       + -
+machine code                  - +
+topics                        + -
+average                       - +
+
+
+----Trending words 1965----actual---predict---topicID---
+programs                      + -
+execution times               - +
+processors                    + -
+laws                          - +
+relationship                  + -
+note                          - +
+time                          + -
+show                          - +
+system                        + -
+emphasis                      - +
+systems                       + -
+animation                     - +
+algorithm                     + -
+strengths                     - +
+grammar                       + -
+channel                       - +
+formulas                      + +
+formulas                      + +
+method                        + -
+bottlenecks                   - +
+users                         + -
+trace                         - +
+resources                     + -
+track                         - +
+computer system               + -
+information system            - +
+computers                     + -
+rationale                     - +
+methodology                   + -
+pair                          - +
+correctness                   + -
+pages                         - +
+problem                       + -
+average                       - +
+procedures                    + -
+implications                  - +
+termination                   + -
+application programs          - +
+scheme                        + -
+high performance              - +
+
+
+----Trending words 1966----actual---predict---topicID---
+algorithm                     + -
+execution times               - +
+analysis                      + -
+specification language        - +
+algorithms                    + -
+Experimental results          - +
+relationships                 + -
+application programs          - +
+compilers                     + -
+relative                      - +
+class                         + -
+overview                      - +
+optimization                  + -
+software tools                - +
+compiler                      + -
+ways                          - +
+flow analysis                 + -
+sites                         - +
+expressions                   + -
+materials                     - +
+problems                      + -
+boundaries                    - +
+integers                      + -
+infrastructure                - +
+set                           + -
+screen                        - +
+functions                     + -
+analyzer                      - +
+number                        + -
+design goals                  - +
+code                          + -
+region                        - +
+structure                     + -
+hours                         - +
+matrices                      + -
+propagation                   - +
+procedure                     + -
+s                             - +
+use                           + -
+essence                       - +
+
+
+----Trending words 1967----actual---predict---topicID---
+language                      + -
+allocator                     - +
+languages                     + -
+arrays                        - +
+implementation                + -
+buffers                       - +
+syntax                        + -
+evidence                      - +
+interpreter                   + -
+program transformations       - +
+definition                    + -
+developers                    - +
+programming system            + -
+locality                      - +
+operating system              + -
+software products             - +
+programming language          + -
+heap                          - +
+software                      + -
+abstract                      - +
+facilities                    + -
+computing                     - +
+terms                         + -
+modularity                    - +
+programming languages         + -
+consequence                   - +
+translator                    + -
+probability                   - +
+hardware                      + -
+encoding                      - +
+approach                      + -
+instances                     - +
+development                   + -
+experimental results          - +
+operations                    + -
+benchmarks                    - +
+tool                          + -
+introduction                  - +
+mechanism                     + -
+measurement                   - +
+
+
+----Trending words 1968----actual---predict---topicID---
+methods                       + -
+problem                       - +
+semantics                     + -
+problems                      - +
+correctness                   + -
+program                       + +
+paper                         + -
+machine                       - +
+logic                         + -
+process                       - +
+proof                         + -
+information                   - +
+method                        + -
+address                       - +
+languages                     + -
+throughput                    - +
+sense                         + -
+factor                        - +
+development                   + -
+prediction                    - +
+strategy                      + -
+art                           - +
+proofs                        + -
+change                        - +
+theorems                      + -
+understanding                 - +
+functions                     + -
+groups                        - +
+equivalence                   + -
+combinations                  - +
+structure                     + -
+bytes                         - +
+rule                          + -
+explosion                     - +
+schemes                       + -
+deficiencies                  - +
+definitions                   + -
+proposals                     - +
+program                       + +
+connections                   - +
+
+
+----Trending words 1969----actual---predict---topicID---
+design                        + -
+use                           - +
+language                      + -
+users                         - +
+systems                       + -
+allocator                     - +
+system                        + -
+kernels                       - +
+implementation                + -
+paradigms                     - +
+paper                         + -
+chip                          - +
+architecture                  + -
+insights                      - +
+machine                       + -
+data model                    - +
+programming language          + -
+topic                         - +
+features                      + -
+concurrent programs           - +
+description                   + -
+enhancements                  - +
+processor                     + -
+curriculum                    - +
+intermediate language         + -
+adaptation                    - +
+system design                 + -
+load                          - +
+designer                      + -
+building blocks               - +
+primitives                    + -
+outputs                       - +
+computer                      + -
+sessions                      - +
+modules                       + -
+community                     - +
+project                       + -
+agents                        - +
+interpretation                + -
+scalability                   - +
+
+
+----Trending words 1970----actual---predict---topicID---
+problem                       + -
+languages                     - +
+algorithm                     + -
+programs                      + +
+model                         + -
+use                           - +
+results                       + -
+approach                      + +
+parameters                    + -
+problems                      - +
+preprocessor                  + -
+number                        + +
+number                        + +
+compiler                      - +
+simulation                    + -
+programming languages         - +
+data                          + -
+programming language          - +
+system                        + -
+software                      - +
+time                          + -
+different ways                - +
+information                   + -
+audience                      - +
+approach                      + +
+industry                      - +
+computer system               + -
+software design               - +
+programs                      + +
+images                        - +
+examples                      + -
+table                         - +
+solution                      + -
+matching                      - +
+users                         + -
+dimensions                    - +
+abstractions                  + -
+refers                        - +
+studies                       + -
+execution times               - +
+
+
+----Trending words 1971----actual---predict---topicID---
+system                        + -
+paper                         + +
+programs                      + +
+programs                      + +
+program                       + -
+use                           - +
+reliability                   + -
+analysis                      - +
+errors                        + -
+syntax                        - +
+data                          + -
+programming language          - +
+techniques                    + +
+set                           - +
+number                        + -
+extension                     - +
+paper                         + +
+techniques                    + +
+level                         + -
+variables                     - +
+methodology                   + -
+control                       - +
+kernel                        + -
+operators                     - +
+software                      + -
+formulation                   - +
+specifications                + -
+mathematics                   - +
+structures                    + -
+technologies                  - +
+mechanism                     + -
+execution times               - +
+mechanisms                    + -
+robustness                    - +
+assertions                    + -
+prototype implementation      - +
+process                       + -
+diagrams                      - +
+way                           + -
+refers                        - +
+
+
+----Trending words 1972----actual---predict---topicID---
+types                         + -
+system                        - +
+type                          + -
+use                           - +
+students                      + -
+paper                         - +
+data type                     + -
+compiler                      - +
+data types                    + -
+computer systems              - +
+concept                       + +
+concept                       + +
+operations                    + -
+subsystems                    - +
+student                       + -
+variables                     - +
+problems                      + -
+purpose                       - +
+user                          + -
+analysis                      - +
+representation                + -
+syntax                        - +
+structure                     + -
+processing                    - +
+set                           + -
+application                   - +
+data structure                + -
+characteristics               - +
+data                          + -
+improvement                   - +
+environment                   + -
+definitions                   - +
+abstraction                   + -
+viewpoint                     - +
+course                        + -
+requirements                  - +
+objects                       + -
+choice                        - +
+management system             + -
+creation                      - +
+
+
+----Trending words 1973----actual---predict---topicID---
+programs                      + +
+system                        + +
+system                        + +
+systems                       - +
+abstractions                  + -
+programs                      + +
+use                           + +
+time                          - +
+communications                + -
+techniques                    - +
+programming language          + +
+approach                      - +
+reliability                   + -
+program                       - +
+facilities                    + -
+method                        - +
+subsystem                     + -
+paper                         - +
+resources                     + -
+model                         - +
+equations                     + -
+features                      + +
+implementation                + -
+information                   - +
+control                       + -
+compiler                      - +
+subjects                      + -
+use                           + +
+programming                   + -
+programming language          + +
+features                      + +
+applications                  - +
+hardware                      + -
+data                          - +
+rules                         + -
+methods                       - +
+interface                     + -
+languages                     - +
+description                   + -
+problem                       - +
+
+
+----Trending words 1974----actual---predict---topicID---
+time                          + +
+paper                         - +
+problems                      + +
+system                        - +
+software                      + -
+data                          - +
+method                        + -
+techniques                    + +
+results                       + +
+development                   + +
+program                       + -
+time                          + +
+algorithm                     + +
+algorithm                     + +
+methods                       + +
+analysis                      - +
+requirements                  + -
+model                         - +
+technique                     + -
+process                       - +
+development                   + +
+structure                     - +
+phases                        + -
+problems                      + +
+techniques                    + +
+approach                      + +
+metrics                       + -
+compiler                      - +
+approach                      + +
+results                       + +
+characteristics               + -
+implementation                - +
+software development          + -
+systems                       - +
+measures                      + -
+code                          - +
+software quality              + -
+methods                       + +
+elements                      + -
+way                           - +
+
+
+----Trending words 1975----actual---predict---topicID---
+system                        + +
+language                      - +
+design                        + -
+systems                       + +
+compiler                      + -
+system                        + +
+systems                       + +
+paper                         - +
+simulation                    + -
+implementation                + +
+machines                      + -
+data                          - +
+hardware                      + -
+languages                     - +
+framework                     + -
+problem                       - +
+implementation                + +
+analysis                      - +
+performance                   + -
+structure                     - +
+design process                + -
+use                           - +
+methodology                   + +
+part                          - +
+applications                  + +
+algorithms                    - +
+structures                    + -
+computer                      - +
+situations                    + -
+code                          - +
+software system               + -
+process                       - +
+tools                         + -
+techniques                    - +
+processors                    + -
+applications                  + +
+large systems                 + -
+environment                   - +
+multiprocessor systems        + -
+methodology                   + +
+
+
+----Trending words 1976----actual---predict---topicID---
+model                         + -
+systems                       + +
+abstraction                   + -
+paper                         - +
+systems                       + +
+data                          - +
+models                        + -
+use                           - +
+languages                     + +
+implementation                - +
+representation                + -
+languages                     + +
+research                      + -
+process                       - +
+specification                 + -
+structure                     - +
+reality                       + -
+program                       - +
+tools                         + -
+algorithms                    - +
+data model                    + -
+development                   - +
+areas                         + -
+number                        - +
+notion                        + -
+analysis                      - +
+type                          + -
+language                      - +
+concepts                      + +
+part                          - +
+database systems              + -
+computer                      - +
+description                   + -
+concepts                      + +
+data abstraction              + -
+processes                     - +
+issues                        + -
+means                         - +
+interfaces                    + -
+set                           - +
+
+
+----Trending words 1977----actual---predict---topicID---
+paper                         + +
+language                      - +
+system                        + -
+paper                         + +
+interface                     + -
+development                   - +
+facilities                    + -
+data                          + +
+user                          + -
+structure                     + +
+editor                        + -
+problem                       - +
+computer system               + -
+systems                       - +
+users                         + -
+use                           - +
+operating system              + -
+approach                      - +
+user interface                + -
+computer                      - +
+capability                    + -
+process                       - +
+concept                       + -
+number                        - +
+data                          + +
+implementation                + +
+text                          + -
+environment                   - +
+network                       + -
+information                   - +
+implementation                + +
+project                       - +
+documentation                 + -
+application                   - +
+features                      + -
+computer systems              - +
+structure                     + +
+algorithms                    - +
+recommendations               + -
+study                         - +
+
+
+----Trending words 1978----actual---predict---topicID---
+collaboration                 + -
+systems                       - +
+overall performance           + -
+language                      - +
+objectoriented programming    + -
+data                          - +
+equivalence                   + -
+development                   - +
+present                       + -
+programs                      - +
+performance results           + -
+implementation                - +
+fault tolerance               + -
+software                      - +
+design choices                + -
+use                           - +
+bottleneck                    + -
+applications                  - +
+source language               + -
+methodology                   - +
+input data                    + -
+program                       - +
+dependences                   + -
+method                        - +
+schedules                     + -
+performance                   - +
+pool                          + -
+operations                    - +
+prototype implementation      + -
+process                       - +
+large numbers                 + -
+requirements                  - +
+robustness                    + -
+problem                       - +
+candidates                    + -
+computer                      - +
+address space                 + -
+information                   - +
+inability                     + -
+results                       - +
+
+
+----Trending words 1979----actual---predict---topicID---
+debugger                      + -
+data                          - +
+implementation                + -
+design                        - +
+debugging                     + -
+infrastructure                - +
+programs                      + -
+simulation results            - +
+language                      + -
+ranges                        - +
+system                        + -
+overall performance           - +
+systems                       + -
+candidates                    - +
+information                   + -
+workloads                     - +
+program                       + -
+bottleneck                    - +
+process                       + -
+objectoriented programming    - +
+mechanism                     + -
+equivalence                   - +
+environment                   + -
+input data                    - +
+processes                     + -
+fault tolerance               - +
+execution                     + -
+design choices                - +
+techniques                    + -
+building                      - +
+programmer                    + -
+pool                          - +
+compiler                      + -
+such systems                  - +
+code                          + -
+prototype implementation      - +
+communication                 + -
+robustness                    - +
+specifications                + -
+deadlocks                     - +
+
+
+----Trending words 1980----actual---predict---topicID---
+allocator                     + +
+allocator                     + +
+iterations                    + +
+termination                   + +
+probabilities                 + -
+ranges                        - +
+removal                       + +
+input data                    + +
+none                          + +
+company                       - +
+minimum                       + +
+none                          + +
+functional languages          + -
+minimum                       + +
+bottleneck                    + -
+objectoriented programming    + +
+shortcomings                  + -
+optimization techniques       - +
+termination                   + +
+relies                        - +
+input data                    + +
+reasoning                     + +
+reasoning                     + +
+design choices                + +
+design choices                + +
+al                            + +
+al                            + +
+deadlines                     + +
+deadlines                     + +
+enhancement                   + +
+enhancement                   + +
+memories                      + +
+memories                      + +
+overall performance           + +
+overall performance           + +
+iterations                    + +
+routing                       + +
+routing                       + +
+objectoriented programming    + +
+removal                       + +
+
+
+----Trending words 1981----actual---predict---topicID---
+execution times               + +
+execution times               + +
+objectoriented programming    + +
+objectoriented programming    + +
+seconds                       + +
+seconds                       + +
+enhancement                   + +
+enhancement                   + +
+log                           + +
+log                           + +
+logics                        + +
+logics                        + +
+deadlines                     + +
+deadlines                     + +
+al                            + +
+al                            + +
+memories                      + +
+memories                      + +
+matching                      + +
+matching                      + +
+refinements                   + +
+refinements                   + +
+software quality              + +
+software quality              + +
+bottleneck                    + +
+bottleneck                    + +
+coverage                      + +
+coverage                      + +
+design choices                + +
+design choices                + +
+reasoning                     + +
+reasoning                     + +
+input data                    + +
+input data                    + +
+removal                       + +
+removal                       + +
+management systems            + +
+management systems            + +
+workloads                     + +
+workloads                     + +
+
+
+----Trending words 1982----actual---predict---topicID---
+language                      + -
+execution times               - +
+design                        + -
+objectoriented programming    - +
+systems                       + -
+seconds                       - +
+interface                     + -
+enhancement                   - +
+interfaces                    + -
+log                           - +
+system                        + -
+logics                        - +
+performance                   + -
+deadlines                     - +
+data                          + -
+al                            - +
+algorithm                     + -
+memories                      - +
+objects                       + -
+matching                      - +
+study                         + -
+refinements                   - +
+architecture                  + -
+software quality              - +
+analysis                      + -
+bottleneck                    - +
+problem                       + -
+coverage                      - +
+model                         + -
+design choices                - +
+users                         + -
+reasoning                     - +
+applications                  + -
+input data                    - +
+evaluation                    + -
+removal                       - +
+method                        + -
+management systems            - +
+algorithms                    + -
+workloads                     - +
+
+
+----Trending words 1983----actual---predict---topicID---
+system                        + -
+connection                    - +
+systems                       + -
+software developers           - +
+implementation                + -
+pattern                       - +
+programs                      + -
+workload                      - +
+development                   + -
+sufficient conditions         - +
+performance                   + -
+other languages               - +
+tools                         + -
+theorem                       - +
+languages                     + -
+frame                         - +
+language                      + -
+half                          - +
+memory                        + -
+correspondence                - +
+interpreter                   + -
+multiplication                - +
+environment                   + -
+automatic generation          - +
+use                           + -
+n                             - +
+problems                      + -
+encoding                      - +
+applications                  + -
+Examples                      - +
+compiler                      + -
+hypothesis                    - +
+objects                       + -
+advent                        - +
+application                   + -
+life                          - +
+techniques                    + -
+parallel processing           - +
+machine                       + -
+participants                  - +
+
+
+----Trending words 1984----actual---predict---topicID---
+systems                       + -
+new techniques                - +
+system                        + -
+program analysis              - +
+programs                      + -
+enforcement                   - +
+design                        + -
+theme                         - +
+model                         + -
+kernels                       - +
+processes                     + -
+Students                      - +
+process                       + -
+practitioners                 - +
+techniques                    + -
+integer                       - +
+processors                    + -
+ranges                        - +
+objects                       + -
+significance                  - +
+program                       + -
+analyses                      - +
+tools                         + -
+formal methods                - +
+time                          + -
+attribute                     - +
+components                    + -
+static analysis               - +
+models                        + -
+terminology                   - +
+concurrency                   + -
+other hand                    - +
+approach                      + -
+validity                      - +
+computation                   + -
+same time                     - +
+execution                     + -
+behaviour                     - +
+behavior                      + -
+guarantees                    - +
+
+
+----Trending words 1985----actual---predict---topicID---
+system                        + +
+system                        + +
+systems                       + +
+systems                       + +
+applications                  + +
+implementation                - +
+performance                   + -
+paper                         + +
+problem                       + +
+approach                      + +
+approach                      + +
+architecture                  - +
+paper                         + +
+applications                  + +
+algorithm                     + -
+data                          + +
+number                        + -
+design                        + +
+techniques                    + -
+software                      - +
+design                        + +
+problem                       + +
+problems                      + +
+problems                      + +
+specification                 + -
+model                         - +
+methods                       + -
+method                        - +
+properties                    + -
+use                           - +
+advantages                    + -
+algorithms                    - +
+parallelism                   + -
+analysis                      - +
+tool                          + -
+programming language          - +
+data                          + +
+environment                   - +
+motivation                    + -
+information                   - +
+
+
+----Trending words 1986----actual---predict---topicID---
+model                         + +
+systems                       + +
+systems                       + +
+design                        - +
+execution                     + -
+programs                      - +
+problems                      + +
+implementation                - +
+approach                      + +
+paper                         + +
+paper                         + +
+development                   - +
+data                          + +
+architecture                  - +
+analysis                      + -
+approach                      + +
+simulation                    + -
+system                        - +
+code                          + -
+problems                      + +
+users                         + -
+environment                   - +
+parallelism                   + -
+techniques                    - +
+user                          + -
+model                         + +
+distributed systems           + -
+data                          + +
+program                       + -
+applications                  - +
+processors                    + -
+use                           - +
+problem                       + -
+tools                         - +
+network                       + -
+information                   + +
+information                   + +
+software                      - +
+issues                        + -
+interface                     - +
+
+
+----Trending words 1987----actual---predict---topicID---
+systems                       + +
+systems                       + +
+system                        + +
+implementation                + +
+language                      + +
+system                        + +
+concepts                      + -
+design                        - +
+file system                   + -
+techniques                    - +
+interface                     + -
+programs                      - +
+implementation                + +
+paper                         - +
+programming language          + -
+development                   - +
+components                    + -
+approach                      - +
+functions                     + -
+environment                   - +
+theory                        + -
+problem                       - +
+application                   + -
+language                      + +
+method                        + +
+software                      - +
+issues                        + -
+architecture                  - +
+semantics                     + -
+data                          - +
+algorithms                    + -
+methods                       - +
+use                           + -
+method                        + +
+tool                          + -
+program                       - +
+requirements                  + -
+time                          - +
+storage                       + -
+applications                  - +
+
+
+----Trending words 1988----actual---predict---topicID---
+paper                         + +
+systems                       - +
+analysis                      + +
+paper                         + +
+algorithms                    + -
+programs                      + +
+software                      + +
+implementation                - +
+programs                      + +
+approach                      - +
+techniques                    + +
+design                        - +
+language                      + +
+problem                       - +
+time                          + -
+data                          + +
+development                   + +
+techniques                    + +
+operations                    + -
+applications                  - +
+data                          + +
+system                        - +
+algorithm                     + -
+software                      + +
+order                         + -
+development                   + +
+process                       + -
+language                      + +
+technology                    + -
+use                           - +
+tools                         + -
+methods                       - +
+framework                     + -
+environment                   - +
+features                      + -
+problems                      - +
+objects                       + -
+analysis                      + +
+impact                        + -
+architecture                  - +
+
+
+----Trending words 1989----actual---predict---topicID---
+performance                   + -
+systems                       + +
+language                      + +
+language                      + +
+implementation                + +
+system                        - +
+approach                      + +
+design                        - +
+applications                  + +
+implementation                + +
+methods                       + +
+approach                      + +
+languages                     + -
+data                          + +
+results                       + -
+development                   + +
+data                          + +
+applications                  + +
+implementations               + -
+methods                       + +
+methodology                   + -
+problem                       - +
+development                   + +
+environment                   - +
+algorithm                     + -
+time                          - +
+technique                     + -
+programs                      - +
+mechanisms                    + -
+architecture                  - +
+information                   + -
+objects                       - +
+communication                 + -
+program                       - +
+systems                       + +
+method                        - +
+algorithms                    + -
+code                          - +
+experiments                   + -
+problems                      - +
+
+
+----Trending words 1990----actual---predict---topicID---
+algorithm                     + -
+language                      + +
+design                        + +
+design                        + +
+languages                     + -
+implementation                + +
+code                          + -
+applications                  + +
+programs                      + -
+systems                       - +
+results                       + -
+time                          - +
+applications                  + +
+development                   - +
+information                   + -
+interface                     - +
+algorithms                    + +
+model                         - +
+interfaces                    + -
+paper                         - +
+architecture                  + +
+method                        - +
+approach                      + -
+use                           - +
+implementation                + +
+problem                       - +
+semantics                     + -
+architecture                  + +
+hardware                      + -
+models                        - +
+compiler                      + -
+application                   - +
+structure                     + -
+data                          - +
+methods                       + -
+algorithms                    + +
+class                         + -
+environment                   - +
+language                      + +
+requirements                  - +
+
+
+----Trending words 1991----actual---predict---topicID---
+systems                       + +
+systems                       + +
+analysis                      + +
+system                        - +
+programs                      + +
+language                      - +
+problem                       + +
+model                         + +
+study                         + -
+implementation                - +
+models                        + -
+applications                  - +
+software                      + -
+data                          - +
+problems                      + +
+development                   - +
+model                         + +
+programs                      + +
+method                        + +
+approach                      - +
+resources                     + -
+techniques                    - +
+mechanism                     + -
+algorithms                    - +
+users                         + -
+problem                       + +
+research                      + -
+problems                      + +
+components                    + -
+analysis                      + +
+time                          + +
+time                          + +
+optimizations                 + -
+performance                   - +
+concept                       + -
+objects                       - +
+processes                     + -
+method                        + +
+issues                        + -
+interface                     - +
+
+
+----Trending words 1992----actual---predict---topicID---
+applications                  + +
+systems                       - +
+performance                   + +
+approach                      + +
+techniques                    + +
+applications                  + +
+system                        + +
+paper                         + +
+model                         + +
+language                      - +
+programs                      + +
+model                         + +
+analysis                      + -
+implementation                - +
+results                       + +
+performance                   + +
+latency                       + -
+techniques                    + +
+approach                      + +
+data                          - +
+paper                         + +
+methods                       + +
+requirements                  + -
+system                        + +
+article                       + -
+development                   - +
+time                          + -
+results                       + +
+process                       + -
+programs                      + +
+methods                       + +
+algorithms                    - +
+method                        + -
+design                        - +
+overhead                      + -
+languages                     - +
+measurements                  + -
+problems                      - +
+benefits                      + -
+algorithm                     - +
+
+
+----Trending words 1993----actual---predict---topicID---
+data                          + +
+systems                       + +
+system                        + +
+system                        + +
+results                       + +
+programs                      - +
+analysis                      + +
+paper                         - +
+systems                       + +
+language                      - +
+protocol                      + -
+approach                      - +
+software                      + -
+analysis                      + +
+rules                         + -
+model                         - +
+problems                      + -
+techniques                    - +
+patterns                      + -
+results                       + +
+issues                        + -
+data                          + +
+use                           + +
+applications                  + +
+information                   + +
+use                           + +
+applications                  + +
+methods                       - +
+implementation                + +
+algorithm                     - +
+components                    + -
+implementation                + +
+features                      + -
+development                   - +
+problem                       + -
+method                        - +
+code                          + -
+information                   + +
+machines                      + -
+algorithms                    - +
+
+
+----Trending words 1994----actual---predict---topicID---
+language                      + +
+system                        - +
+model                         + +
+analysis                      + +
+analysis                      + +
+programs                      + +
+framework                     + -
+language                      + +
+program                       + -
+approach                      + +
+paper                         + +
+algorithm                     + +
+programs                      + +
+applications                  - +
+techniques                    + +
+paper                         + +
+approach                      + +
+model                         + +
+courses                       + -
+systems                       - +
+execution                     + -
+design                        - +
+algorithm                     + +
+techniques                    + +
+compiler                      + -
+problem                       - +
+course                        + -
+software                      - +
+number                        + -
+time                          + +
+students                      + -
+development                   - +
+classes                       + -
+languages                     - +
+objects                       + -
+method                        - +
+time                          + +
+implementation                - +
+article                       + -
+use                           - +
+
+
+----Trending words 1995----actual---predict---topicID---
+design                        + +
+system                        + +
+techniques                    + +
+systems                       + +
+systems                       + +
+analysis                      + +
+analysis                      + +
+programs                      + +
+language                      + -
+applications                  - +
+implementation                + +
+results                       - +
+approach                      + +
+algorithm                     + +
+algorithm                     + +
+implementation                + +
+system                        + +
+design                        + +
+code                          + +
+approach                      + +
+tools                         + -
+techniques                    + +
+programs                      + +
+time                          - +
+methods                       + -
+languages                     - +
+method                        + +
+problem                       - +
+algorithms                    + +
+code                          + +
+use                           + -
+development                   - +
+framework                     + -
+algorithms                    + +
+realtime                      + -
+model                         - +
+computation                   + -
+method                        + +
+architecture                  + -
+software                      - +
+
+
+----Trending words 1996----actual---predict---topicID---
+analysis                      + +
+analysis                      + +
+paper                         + -
+programs                      + +
+code                          + +
+system                        + +
+system                        + +
+systems                       - +
+architecture                  + -
+language                      - +
+optimizations                 + -
+applications                  + +
+programs                      + +
+results                       - +
+research                      + -
+implementation                - +
+approaches                    + -
+algorithm                     - +
+applications                  + +
+languages                     - +
+time                          + -
+problem                       - +
+problems                      + -
+information                   - +
+hardware                      + -
+code                          + +
+tools                         + +
+use                           - +
+students                      + -
+data                          - +
+methods                       + -
+development                   - +
+specifications                + -
+approach                      - +
+infrastructure                + -
+model                         - +
+technique                     + -
+types                         - +
+environment                   + -
+tools                         + +
+
+
+----Trending words 1997----actual---predict---topicID---
+system                        + +
+system                        + +
+systems                       + +
+systems                       + +
+framework                     + +
+programs                      + +
+approach                      + +
+analysis                      - +
+mechanism                     + -
+approach                      + +
+development                   + -
+language                      - +
+method                        + -
+applications                  + +
+components                    + -
+techniques                    - +
+applications                  + +
+algorithm                     - +
+constraints                   + -
+model                         + +
+technique                     + -
+implementation                - +
+model                         + +
+results                       - +
+methodology                   + -
+data                          - +
+application                   + -
+languages                     - +
+abstraction                   + -
+methods                       - +
+queries                       + -
+problem                       - +
+process                       + -
+time                          - +
+programs                      + +
+framework                     + +
+tool                          + -
+information                   - +
+service                       + -
+program                       - +
+
+
+----Trending words 1998----actual---predict---topicID---
+Students                      + -
+system                        - +
+other languages               + -
+analysis                      - +
+data abstraction              + -
+programs                      - +
+past few years                + -
+systems                       - +
+insertion                     + -
+applications                  - +
+computer system               + -
+approach                      - +
+same time                     + -
+results                       - +
+such systems                  + -
+implementation                - +
+k                             + -
+model                         - +
+clarity                       + -
+methods                       - +
+few years                     + -
+paper                         - +
+objectoriented programming    + -
+algorithms                    - +
+other hand                    + -
+information                   - +
+analyses                      + -
+algorithm                     - +
+Examples                      + -
+code                          - +
+behaviour                     + -
+languages                     - +
+n                             + -
+method                        - +
+Users                         + -
+performance                   - +
+b                             + -
+use                           - +
+Analysis                      + -
+compiler                      - +
+
+
+----Trending words 1999----actual---predict---topicID---
+programs                      + +
+applications                  + +
+approach                      + +
+implementation                - +
+problem                       + +
+results                       - +
+systems                       + -
+programs                      + +
+type system                   + -
+software                      - +
+system                        + -
+techniques                    - +
+language                      + -
+performance                   + +
+applications                  + +
+problems                      - +
+paper                         + -
+data                          - +
+properties                    + -
+problem                       + +
+errors                        + -
+use                           - +
+control                       + -
+algorithm                     - +
+performance                   + +
+approach                      + +
+constraints                   + -
+software product              - +
+software systems              + -
+Methods                       - +
+technique                     + -
+second part                   - +
+tool                          + -
+clarity                       - +
+component                     + -
+source program                - +
+metrics                       + -
+shift                         - +
+level                         + -
+analyses                      - +
+
+
+----Trending words 2000----actual---predict---topicID---
+programs                      + -
+theories                      - +
+analysis                      + -
+few years                     - +
+methods                       + -
+such systems                  - +
+techniques                    + -
+Experimental results          - +
+time                          + -
+behaviour                     - +
+code                          + -
+constants                     - +
+software                      + -
+software tools                - +
+students                      + -
+equipment                     - +
+information                   + -
+Examples                      - +
+paper                         + -
+Analysis                      - +
+algorithms                    + -
+Methods                       - +
+approach                      + -
+software product              - +
+models                        + -
+revision                      - +
+applications                  + -
+simplification                - +
+complexity                    + -
+Students                      - +
+patterns                      + -
+quantities                    - +
+approaches                    + -
+response times                - +
+communication                 + -
+system development            - +
+algorithm                     + -
+other hand                    - +
+maintenance                   + -
+s                             - +
+
+
+----Trending words 2001----actual---predict---topicID---
+Users                         + +
+characters                    - +
+insertion                     + +
+structuring                   - +
+programming system            + +
+Examples                      - +
+design goals                  + -
+log                           + +
+Methods                       + -
+other hand                    + +
+other languages               + -
+Analysis                      - +
+system software               + -
+data model                    - +
+other systems                 + +
+calculations                  - +
+Experimental results          + -
+k                             - +
+other hand                    + +
+s                             - +
+same time                     + -
+other systems                 + +
+sample                        + -
+programming system            + +
+such systems                  + -
+regard                        - +
+update                        + -
+Students                      + +
+computer program              + +
+few years                     - +
+premise                       + -
+insertion                     + +
+b                             + +
+b                             + +
+log                           + +
+computer program              + +
+Students                      + +
+Users                         + +
+abstract data types           + -
+analyses                      - +
+
+
+----Trending words 2002----actual---predict---topicID---
+Users                         + -
+applications                  - +
+insertion                     + -
+analysis                      - +
+programming system            + -
+results                       - +
+design goals                  + -
+design                        - +
+Methods                       + -
+programs                      - +
+other languages               + -
+code                          - +
+system software               + -
+techniques                    - +
+other systems                 + -
+model                         - +
+Experimental results          + -
+problems                      - +
+other hand                    + -
+program                       - +
+same time                     + -
+performance                   - +
+sample                        + -
+framework                     - +
+such systems                  + -
+approach                      - +
+update                        + -
+technique                     - +
+computer program              + +
+problem                       - +
+premise                       + -
+log                           + +
+b                             + -
+Examples                      - +
+log                           + +
+computer program              + +
+Students                      + -
+behaviour                     - +
+abstract data types           + -
+entries                       - +
+
+
+----Trending words 2003----actual---predict---topicID---
+systems                       + -
+log                           - +
+system                        + -
+abstract data types           - +
+applications                  + -
+manager                       - +
+data                          + -
+regard                        - +
+performance                   + -
+mappings                      - +
+time                          + -
+geometry                      - +
+code                          + -
+database system               - +
+results                       + -
+interval                      - +
+development                   + -
+performs                      - +
+requirements                  + -
+past few years                - +
+software                      + -
+category                      - +
+language                      + -
+entries                       - +
+problem                       + -
+mix                           - +
+architecture                  + -
+Analysis                      - +
+framework                     + -
+string                        - +
+features                      + -
+computer system               - +
+analysis                      + -
+concurrency control           - +
+mechanisms                    + -
+text                          - +
+problems                      + -
+such systems                  - +
+implementation                + -
+deadlock                      - +
+
+
+----Trending words 2004----actual---predict---topicID---
+system                        + -
+preprocessor                  - +
+techniques                    + -
+programming system            - +
+programs                      + -
+behaviour                     - +
+approach                      + -
+matrix                        - +
+language                      + -
+analyses                      - +
+implementation                + -
+efficient implementation      - +
+framework                     + -
+other languages               - +
+problem                       + -
+software products             - +
+article                       + -
+such systems                  - +
+issues                        + -
+other hand                    - +
+changes                       + -
+objectoriented programming    - +
+tools                         + -
+laws                          - +
+paper                         + -
+macros                        - +
+applications                  + -
+unification                   - +
+parallelism                   + -
+writing                       - +
+patterns                      + -
+software quality              - +
+technique                     + -
+software product              - +
+number                        + -
+Analysis                      - +
+semantics                     + -
+conventions                   - +
+algorithm                     + -
+portions                      - +
+
+
+----Trending words 2005----actual---predict---topicID---
+macros                        + -
+Examples                      + +
+analyses                      + +
+other hand                    - +
+Students                      + -
+unification                   - +
+such systems                  + +
+analyses                      + +
+Experimental results          + +
+objectoriented programming    - +
+abstract data types           + -
+other systems                 + +
+reader                        + +
+other languages               + +
+past few years                + +
+k                             + +
+Analysis                      + -
+b                             + +
+Methods                       + +
+past few years                + +
+microprocessor                + +
+few years                     + +
+Examples                      + +
+Users                         - +
+source program                + -
+subroutines                   - +
+other systems                 + +
+reader                        + +
+few years                     + +
+n                             - +
+b                             + +
+microprocessor                + +
+k                             + +
+Methods                       + +
+same time                     + +
+Experimental results          + +
+other languages               + +
+same time                     + +
+behaviour                     + -
+such systems                  + +
+
+
+----Trending words 2006----actual---predict---topicID---
+model                         + +
+paper                         - +
+language                      + +
+approach                      + +
+system                        + -
+framework                     - +
+programs                      + -
+problem                       + +
+systems                       + -
+data                          + +
+approach                      + +
+algorithm                     - +
+applications                  + -
+code                          - +
+languages                     + -
+implementation                + +
+models                        + -
+results                       - +
+analysis                      + -
+language                      + +
+bugs                          + -
+performance                   + +
+performance                   + +
+problems                      - +
+problem                       + +
+design                        - +
+implementation                + +
+model                         + +
+components                    + -
+algorithms                    - +
+optimizations                 + -
+requirements                  - +
+data                          + +
+other hand                    - +
+memory                        + -
+Students                      - +
+execution                     + -
+data items                    - +
+study                         + -
+source program                - +
+
+
+----Trending words 2007----actual---predict---topicID---
+analysis                      + -
+n                             - +
+programs                      + -
+k                             - +
+design                        + -
+other languages               - +
+algorithms                    + -
+preprocessor                  - +
+data                          + -
+such systems                  - +
+software                      + -
+few years                     - +
+semantics                     + -
+b                             - +
+results                       + -
+Users                         - +
+problem                       + -
+behaviour                     - +
+system                        + -
+Students                      - +
+algorithm                     + -
+second part                   - +
+complexity                    + -
+Experimental results          - +
+verification                  + -
+other hand                    - +
+approach                      + -
+same time                     - +
+systems                       + -
+displays                      - +
+code                          + -
+Methods                       - +
+techniques                    + -
+Analysis                      - +
+properties                    + -
+analyses                      - +
+metrics                       + -
+objectoriented programming    - +
+model                         + -
+Examples                      - +
+
+
+----Trending words 2008----actual---predict---topicID---
+analyses                      + +
+animation                     - +
+b                             + +
+Examples                      + +
+Users                         + +
+b                             + +
+k                             + +
+Users                         + +
+hope                          + -
+past few years                + +
+Examples                      + +
+Students                      - +
+such systems                  + -
+few years                     - +
+frame                         + +
+note                          - +
+same time                     + -
+other hand                    + +
+Experimental results          + -
+member                        - +
+other hand                    + +
+instructor                    + +
+second part                   + +
+analyses                      + +
+database systems              + +
+great deal                    - +
+Methods                       + -
+frame                         + +
+closure                       + -
+k                             + +
+dialect                       + -
+s                             - +
+computer system               + -
+other systems                 - +
+Analysis                      + -
+second part                   + +
+instructor                    + +
+database systems              + +
+past few years                + +
+n                             - +
+
+
+----Trending words 2009----actual---predict---topicID---
+approach                      + +
+data                          - +
+systems                       + -
+problem                       - +
+applications                  + -
+approach                      + +
+performance                   + +
+model                         - +
+system                        + -
+implementation                - +
+time                          + -
+programs                      - +
+results                       + +
+techniques                    - +
+article                       + -
+paper                         + +
+paper                         + +
+analysis                      - +
+resources                     + -
+performance                   + +
+work                          + -
+software                      - +
+machines                      + -
+technique                     - +
+code                          + +
+code                          + +
+parallelism                   + -
+results                       + +
+requirements                  + -
+methods                       - +
+number                        + -
+b                             - +
+studies                       + -
+great deal                    - +
+experiments                   + -
+other systems                 - +
+services                      + -
+same time                     - +
+workloads                     + -
+database systems              - +
+
+
+----Trending words 2010----actual---predict---topicID---
+same time                     + +
+past few years                + +
+Students                      + +
+database systems              + +
+structuring                   + +
+such systems                  + +
+other languages               + -
+b                             + +
+note                          + -
+k                             - +
+n                             + +
+Examples                      - +
+analyses                      + +
+structuring                   + +
+other hand                    + +
+behaviour                     - +
+objectoriented programming    + +
+program development           + +
+program development           + +
+n                             + +
+computer program              + -
+viewpoint                     + +
+such systems                  + +
+Methods                       - +
+illustration                  + +
+Experimental results          - +
+past few years                + +
+objectoriented programming    + +
+b                             + +
+s                             - +
+Analysis                      + -
+illustration                  + +
+database systems              + +
+analyses                      + +
+viewpoint                     + +
+same time                     + +
+computer system               + -
+other hand                    + +
+subroutines                   + -
+Students                      + +
+
+
+----Trending words 2011----actual---predict---topicID---
+systems                       + -
+parallel processing           - +
+requirements                  + -
+correspondence                - +
+data                          + -
+Students                      - +
+applications                  + -
+general purpose               - +
+algorithm                     + -
+software development process  - +
+framework                     + -
+such systems                  - +
+code                          + -
+editor                        - +
+complexity                    + -
+author                        - +
+approach                      + -
+behaviour                     - +
+specification                 + -
+andor                         - +
+article                       + -
+analyses                      - +
+time                          + -
+document                      - +
+model                         + -
+other systems                 - +
+analysis                      + -
+examination                   - +
+algorithms                    + -
+other languages               - +
+reliability                   + -
+Methods                       - +
+devices                       + -
+several years                 - +
+domains                       + -
+constants                     - +
+components                    + -
+majors                        - +
+latency                       + -
+database system               - +
+
+

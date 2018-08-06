@@ -14,6 +14,8 @@ The main experiments are carried out based on the ACM Digital Library dataset, w
 
 Nevertheless, in order to help researchers have a better understanding of the code, we will provide some sample outputs/temporary files from the model. Please refer to *Section Results/Analysis* below for details.
 
+Besides, take note that in the original paper, 2 different experiments are carried out; one of them is using the ACM data, while the other is using the SCI and SSCI publications by performing query "GaN OR Gallium Nitride" to the Web of Science database (for more details, refer to Section 4.3 of the paper); the retrieved data is consolidated in BibTex format and the parsing of the BibTex file requires you to modify the code accordingly (more specifically, the doubleGraphExtract.py, in the "main()" method where originally **minidom** is used to parse the XML format). You may want to take a look at this [BibtexParser](https://bibtexparser.readthedocs.io/en/latest/) lib for reference.
+
 ## Run the Code
 
 Running the code is simple, you may put the 2 Python files into the folder of the extracted dataset (all these settings can be changed in the code), and perform
